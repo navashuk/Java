@@ -1,0 +1,8 @@
+variables - what aRE THEY?
+VARIABLES are containers in the memory that can hold the data for us.
+why we need VARIABLES?
+ Before we can ask computer to do something we need to store the info and instruction in a file we
+feed those to the computer and computer does that thing for us.
+How to create variables?
+     - we need to tell computer what type of box/variable we need.
+     - we need to name this box/variable.
