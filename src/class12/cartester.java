@@ -11,6 +11,7 @@ public class cartester {
         toyota.millage=45000;
         toyota.moveforward();
         toyota.brakes();
+        System.out.println("==============");
 
 
 
