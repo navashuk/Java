@@ -13,7 +13,7 @@ public class StringDemp {
 
 
         String name="Rafik";
-        if(name.length()>10){
+        if(name.length()<10){
             System.out.println("Name cant be more than 10 letters");
         }
     }
